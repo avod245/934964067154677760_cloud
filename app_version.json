@@ -1,0 +1,19 @@
+{
+    "app_version": "1.0",
+    "app_url": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/SLS_Loader.exe",
+    "tools": {
+        "Zenith": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/ZENITH.exe",
+        "Progress": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/PG_1.exe",
+        "LDV2": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/LD_2.13.exe"
+    },
+    "software": {
+        "AnyDesk": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/AnyDesk.exe",
+        "dControl": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/dControl.exe"
+    },
+    "images": {
+        "background": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/background_itachi.png",
+        "logo": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/IMG_3123-removebg-preview.png",
+        "sidebar": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/lateral.png",
+        "discord": "https://raw.githubusercontent.com/avod245/934964067154677760_cloud/main/logo_discord.png"
+    }
+}
